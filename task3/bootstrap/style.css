@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url(img/backgorund.png);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    
+}
+
+.list-group{
+    width: 100%;
+}
+

@@ -1,0 +1,78 @@
+ #logo{
+     position: absolute;
+     top: 0;
+ }
+
+ header {
+    
+    font-size: 20px;
+    padding: 30px;
+    background-color: white;
+    text-align: left;
+    position: sticky;
+    display: block;
+    top:0;
+    
+ }
+ 
+ nav {
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    right:0;
+    bottom: 10px;
+ }
+
+ 
+ nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color:blue;
+ }
+ 
+ nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 10px;
+ }
+
+ body{
+    background-image: url(../img/pattern.jpg);
+    text-align: center;
+ }
+
+#content{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 10px;
+}
+
+#judul{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+#article-list{
+    padding: 20px;
+   background-color: white;
+   text-align: left;
+  
+}
+
+a{
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+footer {
+    padding: 5px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+
+ }
